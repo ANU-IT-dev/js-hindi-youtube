@@ -25,5 +25,5 @@ let state = null
 console.log(typeof age)
 console.log(typeof "Anu") // type btata hai
 console.log( typeof undefined) // it will give undefined
-console.log(typeof null) //  it gives object as type
+console.log(typeof null) //  it gives object as
 
